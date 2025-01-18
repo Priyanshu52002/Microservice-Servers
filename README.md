@@ -98,9 +98,9 @@ The Public API Microservice will run on `http://localhost:5000`.
    - **Request Body**:
      ```json
      {
-       "first_name": "John",
-       "last_name": "Doe",
-       "email": "john.doe@example.com",
+       "first_name": "Ravi",
+       "last_name": "Kumar",
+       "email": "ravi.kumar@example.com",
        "password": "password123"
      }
      ```
@@ -111,7 +111,7 @@ The Public API Microservice will run on `http://localhost:5000`.
    - **Request Body**:
      ```json
      {
-       "email": "john.doe@example.com",
+       "email": "ravi.kumar@example.com",
        "password": "password123"
      }
      ```
@@ -126,9 +126,9 @@ The Public API Microservice will run on `http://localhost:5000`.
    - **Request Body**:
      ```json
      {
-       "first_name": "Jane",
-       "last_name": "Smith",
-       "email": "jane.smith@example.com"
+       "first_name": "Anita",
+       "last_name": "Sharma",
+       "email": "anita.sharma@example.com"
      }
      ```
 
